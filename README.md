@@ -7,7 +7,7 @@
 - Student
 - #Coding
 - I didn't know this existed
-- Do check my projects (especially my FirstGame) :D
+- Do check my projects
 
 ### To talk with me:
 <a href="https://discord.com/channels/@me" target="_blank">
